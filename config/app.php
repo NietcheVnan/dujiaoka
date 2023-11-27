@@ -67,7 +67,9 @@ return [
     |
     */
 
-    'timezone' => 'PRC',
+    // 'timezone' => 'PRC',
+    'timezone' => 'America/New_York',
+
 
     /*
     |--------------------------------------------------------------------------
@@ -80,7 +82,7 @@ return [
     |
     */
 
-    'locale' => env('DUJIAO_ADMIN_LANGUAGE', 'zh_CN'),
+    'locale' => env('DUJIAO_ADMIN_LANGUAGE', 'en'),
 
     /*
     |--------------------------------------------------------------------------

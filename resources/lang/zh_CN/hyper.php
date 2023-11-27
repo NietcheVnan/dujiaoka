@@ -8,7 +8,7 @@ return [
     'error_back_btn'      => '返回',
     'error_error'         => '错误',
     'order_search'        => '查询订单',
-    'global_currency'     => '¥',
+    'global_currency'     => '$',
 
     # home.blade.php
 
