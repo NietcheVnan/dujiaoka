@@ -5,10 +5,10 @@
             <img src="{{ picture_ulr(dujiaoka_config_get('img_logo')) }}" height="36">
             <div class="logo-title">{{ dujiaoka_config_get('text_logo') }}</div>
         </a>
-        <a class="btn btn-outline-primary" href="{{ url('order-search') }}">
-            <i class="noti-icon uil-file-search-alt search-icon"></i>
+        <!-- <a class="btn btn-outline-primary" href="{{ url('order-search') }}"> -->
+            <!-- <i class="noti-icon uil-file-search-alt search-icon"></i> -->
             <!-- 查询订单 -->
-            ORDER VERIFICATION
-        </a>
+            <!-- ORDER VERIFICATION -->
+        <!-- </a> -->
     </div>
 </div>

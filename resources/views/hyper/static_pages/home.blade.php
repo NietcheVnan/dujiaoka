@@ -5,19 +5,19 @@
         <div class="page-title-box">
             <div class="page-title-right">
                 <div class="app-search">
-                    <div class="position-relative">
+                    <!-- <div class="position-relative">
                         <input type="text" class="form-control" id="search" placeholder="{{ __('hyper.home_search_box') }}">
                         <span class="uil-search"></span>
-                    </div>
+                    </div> -->
                 </div>
             </div>
-            <h4 class="page-title">
+            <!-- <h4 class="page-title">
                 <button type="button" class="btn btn-outline-primary ml-1" id="notice-open">
                     <i class="uil-comment-alt-notes me-1"></i>
                     {{-- 公告 --}}
                     {{ __('hyper.notice_announcement') }}
                 </button>
-            </h4>
+            </h4> -->
         </div>
     </div>
 </div>
