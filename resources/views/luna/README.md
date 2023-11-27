@@ -1,6 +1,6 @@
-## 独角数卡 - Luna模板
+## Unicorn Hub- Luna模板
 
-一套简洁的独角数卡模板
+一套简洁的UnicornHub模板
 
 ## 特殊用法
 
