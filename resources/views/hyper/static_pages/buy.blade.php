@@ -52,7 +52,7 @@
                         {{-- 价格 --}}
                         <span class="buy-price">{{ __('hyper.global_currency') }} {{ $actual_price }}</span>
                         {{-- 原价 --}}
-                        <small><del>¥ {{ $retail_price }}</del></small>
+                        <small><del>$ {{ $retail_price }}</del></small>
                     </h3>
                 </div>
                 <div class="form-group">

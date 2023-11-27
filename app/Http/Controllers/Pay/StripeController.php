@@ -212,7 +212,7 @@ class StripeController extends PayController
 <hr class=\"am-article-divider\">
 <div class=\"am-container\">
     <h2>付款信息
-        <div class=\"am-topbar-right\">¥{$price}</div>
+        <div class=\"am-topbar-right\">${$price}</div>
     </h2>
     <p><small>订单编号：$orderid</small></p>
     <div class=\"am-tabs\" data-am-tabs=\"\">
