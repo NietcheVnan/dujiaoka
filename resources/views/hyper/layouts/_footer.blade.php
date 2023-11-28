@@ -5,7 +5,8 @@
             <div class="col-md-6">
             	<div class="footer-links">
                     <!-- Powered by <a href="https://github.com/assimon/dujiaoka">@UnicornHub.</a> -->
-                    <a href="https://t.me/EdgeMathies">https://t.me/EdgeMathies.</a>
+                    <a href="https://t.me/EdgeMathies">https://t.me/EdgeMathies</a>
+                    <!-- <a href="https://t.me/+kCkf96N-vh0yYjZl">UnicornHub VPN - Telegram Community</a> -->
                     <!-- https://t.me/EdgeMathies -->
                 </div>
             </div>

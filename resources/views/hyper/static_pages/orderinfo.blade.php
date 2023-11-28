@@ -14,7 +14,8 @@
         <div class="col-md-12">
             <h3>
                 <span class="badge badge-outline-primary">
-                    订单号：{{ $order['order_sn'] }}
+                    <!-- 订单号：{{ $order['order_sn'] }} -->
+                    order_sn : {{ $order['order_sn'] }}
                 </span>
             </h3>
         </div>
