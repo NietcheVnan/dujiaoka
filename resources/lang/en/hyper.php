@@ -30,6 +30,7 @@ return [
 
     # buy.blade.php
     'buy_title'                 => 'Product Details',
+    // 'buy_title'                 => 'unicorn hub',
     'buy_automatic_delivery'    => 'Automatic Delivery',
     'buy_charge'                => 'Manual Delivery',
     'buy_purchase'              => 'Purchase',

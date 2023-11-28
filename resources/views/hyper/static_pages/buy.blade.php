@@ -1,13 +1,23 @@
 @extends('hyper.layouts.seo')
 @section('content')
+
+
+
 <div class="row">
     <div class="col-12">
         <div class="page-title-box">
             {{-- 产品详细信息 --}}
-            <h4 class="page-title">{{ __('hyper.buy_title') }}</h4>
+            <!-- <h4 class="page-title">{{ __('hyper.buy_title') }} -->
+            <!-- </h4> -->
+            <h1 class="page-title">{{ __('') }}&nbsp;</h1>
         </div>
     </div>
 </div>
+
+
+
+
+
 <div class="buy-grid">
     <div class="buy-shop hyper-sm-last">
         <div class="card card-body sticky">
@@ -288,7 +298,7 @@
                     product: "popup",
                     offline: !data.success,
                     new_captcha: data.new_captcha,
-                    lang: '{{ dujiaoka_config_get('language') ?? 'zh_CN' }}',
+                    lang: '{{ dujiaoka_config_get('language') ?? 'en' }}',
                     http: '{{ (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://" }}' + '://'
                 }, handlerEmbed);
             }
